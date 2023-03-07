@@ -3,3 +3,5 @@
 cursus.code-workspace
 .vscode/
 
+*.o
+a.out
