@@ -5,3 +5,4 @@ cursus.code-workspace
 
 *.o
 a.out
+push_swap_42/*
