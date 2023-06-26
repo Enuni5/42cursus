@@ -13,3 +13,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/Enuni5/push_swap_42.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = https://github.com/Enuni5/fract-ol.git
